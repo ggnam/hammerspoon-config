@@ -1,0 +1,16 @@
+{
+  "Lua.diagnostics.disable": ["unused-local", "lowercase-global"],
+  "Lua.diagnostics.globals": [
+    "hs",
+    "colon",
+    "shift",
+    "cmd",
+    "option",
+    "ctrl",
+    "CMD_SHIFT",
+    "CMD_OPTION",
+    "CMD_CTRL",
+    "OPTION_SHIFT",
+    "SHIFT_CTRL"
+  ]
+}
